@@ -1,0 +1,16 @@
+{
+  "dataset_dir": "./data",
+  "model_save_dir": "./models",
+  "test_set_rate": 0.2,
+  "val_set_rate": 0.2,
+  "epochs": 10,
+  "batchsize": 32,
+  "learning_rate": 0.001,
+  "lr_decay_steps": 20,
+  "lr_decay_rate": 0.96,
+  "pretrained_afm_model_path": "./models/afm.h5",
+  "pretrained_sem_model_path": "./models/sem.h5",
+  "pretrained_saxs_model_path": "./models/saxs.h5",
+  "pretrained_waxd_model_path": "./models/waxd.h5",
+  "dropout_rate": 0.2
+}
