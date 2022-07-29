@@ -1,0 +1,7 @@
+{
+    "inference_result_path" : "inference_result",
+    "afm_model_path": "models/afm.h5",
+    "sem_model_path" : "models/sem.h5",
+    "saxs_model_path" : "models/saxs.h5",
+    "waxd_model_path" : "models/waxd.h5"
+}
