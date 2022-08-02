@@ -1,0 +1,8 @@
+data
+	|___spectrogram type(AFM/SAXS/SEM/WAXD)
+		|___train
+			|___spectrogram label(ageing years:0/10/13)
+				|___pic file (H == W)
+		|___test
+			|___spectrogram label(ageing years:0/10/13)
+				|___pic file (H == W)
